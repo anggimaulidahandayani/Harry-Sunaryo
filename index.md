@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Personal Page
 
-You can use the [editor on GitHub](https://github.com/harrylicious/me.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website.
+About me:
+I am Harry Sunaryo, friends akmapung used to call me ary, ayi. I was born August 3, 1999, 2 my siblings were also born in this month (11 & 17).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am native of Java-Sasak (Jawak). My father is from Java and my mother is Lombok.
 
 ### Markdown
 
