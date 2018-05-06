@@ -34,7 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-See, feel free to visit my github [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See, feel free to visit my github [Harrylicious](https://github.com/harrylicious).
 
 ### Jekyll Themes
 
