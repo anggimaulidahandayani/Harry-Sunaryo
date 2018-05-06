@@ -14,31 +14,26 @@ My hobby is a lot, I know that the hobby will change according to the times. Bef
 ### Achievement
 
 I have 5 certificates and 1 certificate and 1 in IT.
-1. Winner 1 Application Software Provincial Level (NTB)
+**Winner 1 Application Software Provincial Level (NTB)**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+###MY KEY
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+`while (!succes) { 
+Try {
+ doWordHarder();
+ }
+ Catch (Exception ex) {
+ e.printStackTrace();
+ }
+}` 
 
 [Link](url) and ![Image](src)
 ```
 
 See, feel free to visit my github [Harrylicious](https://github.com/harrylicious).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrylicious/me.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
