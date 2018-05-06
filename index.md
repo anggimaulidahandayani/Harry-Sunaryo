@@ -14,11 +14,11 @@ My hobby is a lot, I know that the hobby will change according to the times. Bef
 ### Achievement
 
 I have 5 certificates and 1 certificate and 1 in IT.
+
 **Winner 1 Application Software Provincial Level (NTB)**
 
+### MY KEY
 
-
-###MY KEY
 
 `while (!succes) { 
 Try {
@@ -29,8 +29,6 @@ Try {
  }
 }` 
 
-[Link](url) and ![Image](src)
-```
 
 See, feel free to visit my github [Harrylicious](https://github.com/harrylicious).
 
